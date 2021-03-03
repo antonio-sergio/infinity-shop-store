@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    
+}
+ 
+
+
+
+#logo {
+    color: rgb(230, 215, 6);
+    background-color: black;
+    text-align: center;
+    text-shadow: 1px 1px blanchedalmond;
+   
+}
+
+
+
+.list-group {
+    width: 200px;
+    
+}
+
+.lado-e {
+    width: 20%;
+    float: left;
+    
+}
+
+.lado-d {
+    width: 70%;
+    float: right;
+    padding-right: 300px;
+}
+
+.navegador-horizontal {
+    
+    clear: both;
+    padding-top: 60px;
+    
+    
+}
+
+
+.creditos {
+    display: flex;
+    height: 100px;
+    color:rgb(6, 58, 230);
+    flex-wrap: wrap;
+    align-content: space-around;
+    background-color: pink;
+}
+
+}
+
+.creditos a {
+    text-decoration: none;
+}
+
+
+#thaynara a:hover {
+    color: rgb(194, 44, 169) ;
+    background-color: white;
+    
+}
+
+#thaynara {
+    
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    background-color: black;
+}
+
+#william a:hover{
+    color: rgb(14, 3, 1);
+    background-color: white;
+}
+
+#william {
+    background-color: black;
+    width: 200px;
+    height: 70px;
+}
+
+
+
+#whats {
+    
+    width: 200px;
+    height: 70px;
+}
+
+#email a:hover{
+    color:rgb(230, 215, 6);
+    background-color: white;
+}
+
+#email {
+    
+    width: 200px;
+    height: 70px;
+}
+
+.cola {
+    background-color: black;
+}
+
